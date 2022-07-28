@@ -1,0 +1,22 @@
+{
+  "name": "freelancing",
+  "version": "1.0.0",
+  "description": "freelance web developer",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:assets/css"
+  },
+  "keywords": [
+    "professional website",
+    "web-development",
+    "web developer",
+    "freelancing"
+  ],
+  "devDependencies": {
+    "sass": "^1.32.12"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "bootstrap": "^5.0.0"
+  }
+}
